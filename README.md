@@ -1,0 +1,2 @@
+# patika_veri_yapilari_ve_algoritmalar_dersi_selection_sort_projesi
+Patika Veri Yapıları ve Algoritmalar Dersi Selection Sort Projesi
